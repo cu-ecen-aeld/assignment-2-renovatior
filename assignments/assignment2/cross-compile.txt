@@ -11,5 +11,3 @@ Configured with: /tmp/dgboter/bbs/build04--cen7x86_64/buildbot/cen7x86_64--aarch
 Thread model: posix
 Supported LTO compression algorithms: zlib
 gcc version 10.2.1 20201103 (GNU Toolchain for the A-profile Architecture 10.2-2020.11 (arm-10.16)) 
-
-writer: ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=1145972e4d0b17b56c7a5cebfad51fbc2fcd180b, for GNU/Linux 3.2.0, with debug_info, not stripped
